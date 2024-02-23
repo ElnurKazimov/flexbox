@@ -31,7 +31,7 @@ header span {
 }
 
 .box1 .image {
-    background-image: url(/image/woods.jpg);
+    background-image: url(../image/woods.jpg);
     background-repeat: no-repeat;
     background-position: cover;
     width: 100%;
@@ -94,7 +94,7 @@ header span {
 }
 
 .box2 .image {
-    background-image: url(/image/bridge.jpg);
+    background-image: url(../image/bridge.jpg);
     background-repeat: no-repeat;
     background-position: cover;
     width: 100%;
@@ -112,7 +112,7 @@ header span {
 }
 
 .box3-sec1 {
-    background-image: url(/image/avatar.jpg);
+    background-image: url(../image/avatar.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
